@@ -1,5 +1,5 @@
 ﻿//
-//	Do you like this project? Do you find it helpful? Pay it forward by hiring me as a consultant!
+//  Do you like this project? Do you find it helpful? Pay it forward by hiring me as a consultant!
 //  https://jason-iverson.com
 //
 using System;
@@ -20,7 +20,8 @@ namespace JM0ney.AssetLibrary.TypeDefinitions.References {
 
     public enum AspectRatios : byte {
         FourByThree = 0,
-        SixteenByNine = 1
+        SixteenByNine = 1,
+        Other = 2
     }
 
     public enum ContentSources {
